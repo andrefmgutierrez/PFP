@@ -1,0 +1,4 @@
+] activate .
+add CSV DataFrames Distributions HMMBase NLsolve Plots Statistics
+add JuMP HiGHS Ipopt JSON3 ArgParse
+precompile
