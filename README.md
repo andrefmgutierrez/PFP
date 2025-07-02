@@ -37,7 +37,7 @@ julia --project=. src/planner.jl input.json
 ## Testes
 
 ```bash
-julia --project=. -e 'using Pkg; Pkg.test()'
+julia --project=. test/runtests.jl
 ```
 
 ## Estrutura essencial
